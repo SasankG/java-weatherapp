@@ -29,4 +29,4 @@ dependencies {
 }
 
 // testing API class -> set back to weather.App when finished
-mainClassName = 'weather.Frame'
+mainClassName = 'weather.App'
